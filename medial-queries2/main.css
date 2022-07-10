@@ -3,7 +3,7 @@ body {
 }
 
 * {
-  border: 1px solid teal;
+  border: 1px solid darkcyan;
   box-sizing: border-box;
 }
 
@@ -41,7 +41,6 @@ aside  {
 aside > div {
   flex-grow: 10;
   margin: .5em;
-  /* min-width: 20vh; */
 }
 
 main {
